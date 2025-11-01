@@ -17,12 +17,11 @@ i make software + design
 
 ---
 
-### i craft software.
+### overview
 
-✨ full-stack software engineer building scalable backend systems, real-time data pipelines, and interactive frontends  
+✨ full-stack software engineer building scalable backend systems, real-time data pipelines, and interactive frontends.
 💡 interested in **ai, cloud platforms, web3, and data analytics**  
 🌱 learning new frameworks, ai-powered applications, and cloud orchestration  
-📞 reach me at **ssharpalla2002@gmail.com** or connect on [linkedin](https://www.linkedin.com/in/sanjith-sadananda-harpalla/)  
 
 ---
 
