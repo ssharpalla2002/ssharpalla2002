@@ -2,15 +2,16 @@
 
 <p align="left">
   <a href="mailto:ssharpalla2002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail‑D14836?style=for‑the‑badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/sanjith-sadananda-harpalla-a3769521b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn‑0077B5?style=for‑the‑badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://ssh02.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio‑FF6B00?style=for‑the‑badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
 ---
 
 ### i craft software.
