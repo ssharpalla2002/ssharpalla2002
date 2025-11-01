@@ -1,6 +1,4 @@
-# 👋 hey hey, i'm **Sanjith Sadananda Harpalla**
-
-### connect with me
+# 👋 Hey, i'm **Sanjith Sadananda Harpalla**
 
 <p align="left">
   <a href="mailto:ssharpalla2002@gmail.com" target="_blank">
@@ -22,7 +20,7 @@ Hey there! 👋 I'm a **Full-Stack Software Engineer** who loves turning coffee 
 
 I play around with **Node.js**, **React.js**, **MySQL**, and **REST APIs** to build **backend systems** that don’t just work—they *perform*.
 
-I write **clean, maintainable code** like I tidy my desk (well, most of the time 😅) and thrive in fast-paced, collaborative environments where **high performance** and **low latency** aren’t just buzzwords—they’re a lifestyle.  
+I write **clean, maintainable code** like I tidy my desk and thrive in fast-paced, collaborative environments where **high performance** and **low latency** aren’t just buzzwords—they’re a lifestyle.  
 
 When I’m not coding, you might find me exploring new tech, testing AI experiments, or just figuring out how to make animations that make people go “wow” ✨.
 
@@ -38,7 +36,6 @@ When I’m not coding, you might find me exploring new tech, testing AI experime
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -52,12 +49,6 @@ When I’m not coding, you might find me exploring new tech, testing AI experime
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-
-**AI / ML:**  
-Supervised Learning (Regression, Classification), Cross-Validation, Predictive Modeling  
-
-**Data Analytics:**  
-SQL Queries, Data Cleaning, Feature Engineering, Visualization (Matplotlib, Pandas)  
 
 **Tools:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
@@ -110,28 +101,18 @@ SQL Queries, Data Cleaning, Feature Engineering, Visualization (Matplotlib, Pand
 
 ---
 
-### 💻 experience
-
-**Software Developer Intern** – Coding Club India (Jun 2024 – Jul 2024)  
-- Crafted responsive front-end interfaces using React.js and Tailwind CSS  
-- Engineered a status page system with incident management and real-time ping monitoring  
-- Assisted in setting up CI/CD pipelines with Jenkins  
-- Designed RESTful APIs with performance-tuned SQL queries  
-- Conducted A/B testing across UI flows, increasing engagement by 30%  
-
----
-
-### 🌟 projects  
+### 🌟 Featured Projects
 
 **[Shiksha‑GPT](https://github.com/ssharpalla2002/Shiksha_GPT)**  
-- A RAG-based AI chatbot for science queries.  
-- Retrieves answers from PDFs and documents for accurate learning assistance.  
+RAG-based AI chatbot for science queries. Retrieves answers from PDFs and documents for accurate learning assistance.
 
 **[Finex Agent](https://github.com/ssharpalla2002/Finex_Agent)**  
-- An AI-powered stock market assistant that provides real-time insights and predictions.  
-- Uses RAG and vector embeddings for dynamic context-aware responses.  
+AI-powered stock market assistant providing real-time insights and predictions. Uses RAG and vector embeddings for context-aware responses.
 
 **[Social Media App](https://github.com/ssharpalla2002/Social_Media_App)**  
-- A full-stack social platform with user authentication, posts, likes, comments, and real-time interactions.  
+Full-stack social platform with authentication, posts, likes, comments, and real-time interactions.
 
-**[Real Estate Marketplace](https://github.com/ssharpalla2002/
+**[Real Estate Marketplace](https://github.com/ssharpalla2002/Real_Estate_Marketplace)**  
+Comprehensive platform for property listings, search, and management. Includes interactive maps, filters, and secure user accounts.
+
+---
