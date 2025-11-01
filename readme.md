@@ -20,13 +20,13 @@
 
  - I play around with **Node.js**, **React.js**, **MySQL**, and **REST APIs** to build **backend systems** that don’t just work—they *perform*.
 
- - I write **clean, maintainable code** in fast-paced, collaborative environments where **high performance** and **low latency** aren’t just buzzwords they're a lifestyle.  
+- I write **clean, maintainable code** in fast-paced environments where **performance** and **low latency** are a lifestyle.  
 
- - When I’m not coding, you might find me exploring new tech, testing AI experiments, or just figuring out how to make animations that make people go “wow” ✨.
+- Outside coding, I explore new tech, experiment with AI, and create animations that make people go “wow” ✨.
 
 ---
 
-### 🛠 tech stack
+### 🛠 Tech stack
 
 **Languages:**  
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) 
@@ -51,7 +51,6 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 
 **Devops Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) 
@@ -67,7 +66,7 @@
 
 ---
 
-### 🎓 education
+### 🎓 Education
 
 **Vellore Institute of Technology** – B.Tech | CSE Core  
 ⭐ CGPA: 8.19/10  
@@ -77,7 +76,7 @@
 
 ---
 
-### 💼 leadership & positions
+### 💼 Leadership & Positions
 
 **Vice President** – Toastmasters International  
 - Led mentorship programs to develop communication skills  
