@@ -20,7 +20,7 @@
 
  - I play around with **Node.js**, **React.js**, **MySQL**, and **REST APIs** to build **backend systems** that don’t just work—they *perform*.
 
- - I write **clean, maintainable code** in fast-paced, collaborative environments where **high performance** and **low latency** aren’t just buzzwords they are a lifestyle.  
+ - I write **clean, maintainable code** in fast-paced, collaborative environments where **high performance** and **low latency** aren’t just buzzwords they're a lifestyle.  
 
  - When I’m not coding, you might find me exploring new tech, testing AI experiments, or just figuring out how to make animations that make people go “wow” ✨.
 
