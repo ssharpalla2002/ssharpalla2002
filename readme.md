@@ -1,4 +1,5 @@
 # 👋 Hey, i'm **Sanjith Harpalla**
+i make software + design  
 
 <p align="left">
   <a href="mailto:ssharpalla2002@gmail.com" target="_blank">
