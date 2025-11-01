@@ -1,20 +1,16 @@
-# 👋 hey, i'm **Sanjith Harpalla**
+# 👋 Hey, i'm **Sanjith Harpalla**
 
 <p align="left">
   <a href="mailto:ssharpalla2002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+    <img src="https://img.shields.io/badge/Gmail‑D14836?style=for‑the‑badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/sanjith-sadananda-harpalla/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="https://github.com/ssharpalla2002" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  <a href="https://www.linkedin.com/in/sanjith-sadananda-harpalla-a3769521b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn‑0077B5?style=for‑the‑badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://ssh02.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-ff6b00?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio‑FF6B00?style=for‑the‑badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
-
 ---
 
 ### i craft software.
