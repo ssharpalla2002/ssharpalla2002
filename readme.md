@@ -1,4 +1,4 @@
-# 👋 hey hey, i'm **sanjith sadananda harpalla**
+# 👋 hey, i'm **sanjith harpalla**
 
 <p align="left">
   <a href="mailto:ssharpalla2002@gmail.com" target="_blank">
@@ -10,7 +10,7 @@
   <a href="https://github.com/ssharpalla2002" target="_blank">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://ssh02.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-ff6b00?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="portfolio"/>
   </a>
 </p>
