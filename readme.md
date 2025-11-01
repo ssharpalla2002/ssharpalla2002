@@ -16,13 +16,13 @@
 
 ### 💡 about me
 
-Hey there! 👋 I'm a **Full-Stack Software Engineer** who loves turning coffee ☕ and ideas 💡 into **scalable web apps**.  
+ - Hey there! 👋 I'm a **Full-Stack Software Engineer** who loves turning coffee ☕ and ideas 💡 into **scalable web apps**.  
 
-I play around with **Node.js**, **React.js**, **MySQL**, and **REST APIs** to build **backend systems** that don’t just work—they *perform*.
+ - I play around with **Node.js**, **React.js**, **MySQL**, and **REST APIs** to build **backend systems** that don’t just work—they *perform*.
 
-I write **clean, maintainable code** like I tidy my desk and thrive in fast-paced, collaborative environments where **high performance** and **low latency** aren’t just buzzwords—they’re a lifestyle.  
+ - I write **clean, maintainable code** like I tidy my desk and thrive in fast-paced, collaborative environments where **high performance** and **low latency** aren’t just buzzwords—they’re a lifestyle.  
 
-When I’m not coding, you might find me exploring new tech, testing AI experiments, or just figuring out how to make animations that make people go “wow” ✨.
+ - When I’m not coding, you might find me exploring new tech, testing AI experiments, or just figuring out how to make animations that make people go “wow” ✨.
 
 ---
 
@@ -50,7 +50,7 @@ When I’m not coding, you might find me exploring new tech, testing AI experime
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 
-**Tools:**  
+**Devops Tools:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
