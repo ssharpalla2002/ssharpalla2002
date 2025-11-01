@@ -107,7 +107,7 @@
 RAG-based AI chatbot for science queries. Retrieves answers from PDFs and documents for accurate learning assistance.
 
 **[Finex Agent](https://github.com/ssharpalla2002/Finex_Agent)**  
-AI-powered stock market assistant providing real-time insights and predictions. Uses RAG and vector embeddings for context-aware responses.
+AI-powered stock market assistant providing real-time insights & predictions Using RAG and vector embeddings for context-aware responses.
 
 **[Social Media App](https://github.com/ssharpalla2002/Social_Media_App)**  
 Full-stack social platform with authentication, posts, likes, comments, and real-time interactions.
