@@ -1,4 +1,4 @@
-# 👋 hey, i'm **sanjith harpalla**
+# 👋 hey, i'm **Sanjith Harpalla**
 
 <p align="left">
   <a href="mailto:ssharpalla2002@gmail.com" target="_blank">
