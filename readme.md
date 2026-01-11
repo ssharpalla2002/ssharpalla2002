@@ -1,4 +1,6 @@
-# hey there, i'm **Sanjith Sadananda Harpalla** 👋
+<p align="center">👋</p>
+# hey there, i'm **Sanjith Sadananda Harpalla**
+
 
 Full‑Stack Software Engineer turning ☕ + 💡 into **scalable web apps**.
 
