@@ -1,8 +1,8 @@
 <div align="center">
 
 # Hey there, I'm Sanjith Harpalla 👋
-### **I cook software.** 🍳💻
-
+### **I cook software.** 
+</div>
 ---
 
 ## 🚀 About Me
@@ -44,4 +44,3 @@
 
 *"Engineering with intent, not noise."*
 
-</div>
