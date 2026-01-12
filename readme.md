@@ -1,7 +1,7 @@
 <div align="center">
 
 # hey there, i'm sanjith harpalla 👋
-### **I cook software.** 
+### **i cook softwares.** 
 
 </div>
 
