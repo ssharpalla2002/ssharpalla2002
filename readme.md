@@ -1,16 +1,16 @@
 <div align="center">
 
-# Hey there, I'm Sanjith Harpalla 👋
+# hey there, i'm sanjith harpalla 👋
 ### **I cook software.** 
 
 </div>
 
 ---
 
-## about Me
+## about me
 
-* 🏗️ I spend my days architecting apps with TypeScript and Next.js, obsessed with making sure every interaction is type-safe and snappy. 
-* 🎨 I don't just hand off designs—I bridge the gap between solid engineering and clean UI, ensuring the final product looks as good as the code feels. 
+* 🏗️ I architect with TypeScript and Next.js, making sure every interaction is type-safe and snappy.
+* 🎨 I bridge the gap between engineering and clean UI, ensuring products look as good as the code feels.
 * 🌐 I’m currently deep in the world of React Server Components and Server Actions, building apps that ship less JS and more value. 
 * 🔐 I’m a huge advocate for the T3 stack philosophy: using tRPC, Prisma, and Postgres to move fast without breaking things. 
 * 🧠 When I'm not shipping features, I'm tackling Data Structures & Algorithms to keep my problem-solving skills surgical. 
