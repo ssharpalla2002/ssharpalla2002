@@ -2,8 +2,10 @@
 
 # Hey there, I'm Sanjith Harpalla 👋
 ### **I cook software.** 
-</div>
+
 ---
+
+</div>
 
 ## 🚀 About Me
 
