@@ -1,13 +1,13 @@
 <div align="center">
 
-# 👋 hey there, i'm sanjith harpalla
-### **i cook softwares** 
+# 👋 Hey there, I'm Sanjith Harpalla
+### **I cook softwares** 
 
 </div>
 
 ---
 
-## about me
+## About me
 
 * 🏗️ I architect with Next.js and TypeScript, making sure every digital interaction is type-safe and snappy. 
 * 🎨 I bridge the gap between engineering and clean UI, ensuring final products look as good as the code feels. 
@@ -18,7 +18,7 @@
 ---
 
 
-### current go to tech stack
+### Current go to tech stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
@@ -32,7 +32,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### sometimes also use
+### Sometimes also use
 
 ![Astro](https://img.shields.io/badge/astro-%230C1222.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -41,7 +41,7 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### used to use, were nice, but abandoned
+### Used to use, were nice, but abandoned
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
