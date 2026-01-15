@@ -10,7 +10,7 @@
 ## About me
 
 * 🏗️ I architect with Next.js and TypeScript, making sure every digital interaction is type-safe and snappy.  
-* 🎨 Bridging engineering and design, I focus on clean UI, smooth interactions, and thoughtful details.
+* 🎨 Blending engineering with design sensibility, focusing on clean UIs that feel natural and engaging.  
 * 🌐 Diving deep into React Server Components and Server Actions, I build apps that ship less JS and more value.
 * 🔐 A strong advocate of the T3 stack philosophy, I leverage tRPC, Prisma, and Postgres to move fast without breaking things.
 * 🧠 When not shipping features, I tackle Data Structures & Algorithms to keep my problem-solving skills surgical.
