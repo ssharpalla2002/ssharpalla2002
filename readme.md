@@ -10,7 +10,6 @@
 ## About me
 
 * 🏗️ Building fast, reliable, and type safe web experiences with Next.js and TypeScript.
-* 🎨 Translating business needs into clean, intuitive multithreaded applications that solve real problems.
 * 🌐 Leveraging React Server Components and Server Actions to ship less JavaScript while delivering more value.
 * 🔐 Following the T3 stack philosophy using tRPC, Prisma, and Postgres to build scalable systems.
 * 🧠 Keeping problem solving sharp through regular practice of data structures and algorithms.
