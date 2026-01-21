@@ -10,10 +10,10 @@
 ## About me
 
 * 🏗️ Building fast, reliable web experiences with Next.js and TypeScript.
-* 🌐 Leveraging React Server Components and Server Actions to ship less JavaScript while delivering more value.
-* 🔐 Following the T3 stack philosophy using tRPC, Prisma, and Postgres to build scalable systems.
-* 🧠 Keeping problem solving sharp through regular practice of data structures and algorithms.
-* ⚽ Off the keyboard, I enjoy football, chess, and visual art.
+* 🌐 Using React Server Components and Server Actions to ship less JavaScript while delivering more value.
+* 🔐 Following the T3 stack philosophy with tRPC, Prisma, and Postgres for scalable apps.
+* 🧠 Staying sharp with regular practice of data structures and algorithms.
+* ⚽ Off the keyboard, football, chess, and visual art keep me busy.
 
 
 ---
