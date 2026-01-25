@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey there, I'm Sanjith Harpalla
-### **I cook softwares** 
+### **I cook software** 
 
 </div>
 
@@ -19,7 +19,7 @@
 ---
 
 
-### Current go to tech stack
+### Current go-to tech stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
