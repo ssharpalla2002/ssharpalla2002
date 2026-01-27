@@ -10,13 +10,9 @@
 ## About me
 
 * 🏗️ Building fast, reliable web experiences with Next.js and Tailwind CSS for modern products.
-
 * 🌐 Using React Server Components and Server Actions to ship less JavaScript while delivering more value by default.
-
 * 🔐 Following the T3 stack philosophy with tRPC, Prisma, and Postgres for scalable apps that scale well over time.
-
 * 🧠 Staying sharp with regular practice of data structures and algorithms every single week.
-
 * ⚽ Outside of work, I spend time playing football, chess, and exploring visual art when possible.
 
 
