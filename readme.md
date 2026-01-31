@@ -52,6 +52,6 @@
 
 ---
 <div align="center">
-*"Engineering with intent, not noise."*
+"Engineering with intent, not noise."
 <div/>
 
