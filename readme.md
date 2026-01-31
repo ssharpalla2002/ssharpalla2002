@@ -51,6 +51,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ---
-
+<div align="center">
 *"Engineering with intent, not noise."*
+<div/>
 
