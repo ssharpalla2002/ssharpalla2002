@@ -13,7 +13,7 @@
 * 🌐 Using React Server Components and Server Actions to ship less JavaScript while delivering more value.
 * 🔐 Following the T3 stack philosophy with tRPC, Prisma, and Postgres for applications that scale well over time.
 * 🧠 Staying sharp with regular practice of data structures and algorithms every single week.
-* ⚽ Off the clock, I spend my time playing football, competing at chess, and painting.
+* ⚽ I spend my free time chasing goals on the field, kings on the board, and color on the canvas.
 
 
 ---
