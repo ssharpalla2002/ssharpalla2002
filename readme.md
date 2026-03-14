@@ -10,7 +10,7 @@
 ## About me
 
 * 🏗️ Building fast, reliable web experiences with Next.js and Tailwind CSS for modern products.
-* 🔐 Following the T3 stack philosophy with tRPC, Prisma, and Postgres to build scalable apps.
+* 🔐 Following the T3 stack philosophy with tRPC, Prisma, and Postgres to develop scalable apps.
 * 🧠 Staying sharp with regular practice of data structures and algorithms every single week.
 * ⚽ I spend my free time chasing goals on the field and kings on the board.
 
